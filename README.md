@@ -20,6 +20,10 @@ Set filters once. Get alerts minutes after a match lands.
 [Features](https://crawlbench.com/features?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-features)
 &nbsp;·&nbsp;
 [Blog](https://crawlbench.com/blog?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-blog)
+&nbsp;·&nbsp;
+[Telegram bot](https://t.me/CrawlbenchAlertsBot)
+&nbsp;·&nbsp;
+[Brand kit](https://github.com/crawlbench/brand)
 
 </div>
 
@@ -35,7 +39,7 @@ Depth on one source. Not a thin layer across many marketplaces.
 
 - **Advanced filters** — price, location, keywords, exclude terms, and category-specific fields
 - **Multi-city coverage** — monitor many metros without babysitting tabs
-- **Match alerts** — email digests and Telegram when a listing passes
+- **Match alerts** — email digests and Telegram (`@CrawlbenchAlertsBot`) when a listing passes
 - **Team workspaces** — one buy box and one match queue for the desk
 
 ### Verticals
@@ -54,6 +58,13 @@ Depth on one source. Not a thin layer across many marketplaces.
 1. **Tell us the deal** — attributes, price, condition, cities
 2. **We watch the feed** — scheduled Marketplace scans
 3. **You strike first** — alert lands minutes after a match clears
+
+### On GitHub
+
+| Repo | Purpose |
+| --- | --- |
+| [`crawlbench/crawlbench`](https://github.com/crawlbench/crawlbench) | This profile README |
+| [`crawlbench/brand`](https://github.com/crawlbench/brand) | Public logos and icons |
 
 ---
 
