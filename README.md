@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://crawlbench.com/?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-logo"><img src="https://raw.githubusercontent.com/crawlbench/brand/main/icons/icon.svg" width="88" height="88" alt=""></a>
+<a href="https://crawlbench.com/?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-logo"><img src="assets/icon.svg" width="88" height="88" alt=""></a>
 
 <a href="https://crawlbench.com/?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-logo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crawlbench/brand/main/logos/logo.svg">
-    <img src="https://raw.githubusercontent.com/crawlbench/brand/main/logos/logo-light.svg" height="36" alt="Crawlbench">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo.svg">
+    <img src="assets/logo-light.svg" height="36" alt="Crawlbench">
   </picture>
 </a>
 
@@ -75,10 +75,7 @@ Depth on one source, not a thin layer across many marketplaces.
 - Discord server: [discord.gg/5jaP49EhaB](https://discord.gg/5jaP49EhaB)
 - X: [@crawlbench](https://x.com/crawlbench)
 
-### On GitHub
-
-| Repo | Purpose |
-| --- | --- |
+--- | --- |
 | [`crawlbench/crawlbench`](https://github.com/crawlbench/crawlbench) | This profile README |
 | [`crawlbench/brand`](https://github.com/crawlbench/brand) | Brand kit: logos, icons, colors and fonts |
 
