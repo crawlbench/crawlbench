@@ -75,10 +75,6 @@ Depth on one source, not a thin layer across many marketplaces.
 - Discord server: [discord.gg/5jaP49EhaB](https://discord.gg/5jaP49EhaB)
 - X: [@crawlbench](https://x.com/crawlbench)
 
---- | --- |
-| [`crawlbench/crawlbench`](https://github.com/crawlbench/crawlbench) | This profile README |
-| [`crawlbench/brand`](https://github.com/crawlbench/brand) | Brand kit: logos, icons, colors and fonts |
-
 ---
 
 <div align="center">
