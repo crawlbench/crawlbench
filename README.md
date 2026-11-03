@@ -1,6 +1,13 @@
 <div align="center">
 
-# Crawlbench
+<a href="https://crawlbench.com/?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-logo"><img src="https://raw.githubusercontent.com/crawlbench/brand/main/icons/icon.svg" width="88" height="88" alt=""></a>
+
+<a href="https://crawlbench.com/?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=hero-logo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crawlbench/brand/main/logos/logo.svg">
+    <img src="https://raw.githubusercontent.com/crawlbench/brand/main/logos/logo-light.svg" height="36" alt="Crawlbench">
+  </picture>
+</a>
 
 **Facebook Marketplace monitoring for flippers, resellers, car dealers, and sourcing teams.**
 
@@ -73,7 +80,7 @@ Depth on one source, not a thin layer across many marketplaces.
 | Repo | Purpose |
 | --- | --- |
 | [`crawlbench/crawlbench`](https://github.com/crawlbench/crawlbench) | This profile README |
-| [`crawlbench/brand`](https://github.com/crawlbench/brand) | Public logos and icons |
+| [`crawlbench/brand`](https://github.com/crawlbench/brand) | Brand kit: logos, icons, colors and fonts |
 
 ---
 
@@ -83,5 +90,7 @@ Depth on one source, not a thin layer across many marketplaces.
 
 Questions: [contact](https://crawlbench.com/contact?utm_source=github&utm_medium=profile&utm_campaign=gh-profile&utm_content=footer-contact)
 · Austin, TX
+
+<sub>Crawlbench is not affiliated with Meta or Facebook.</sub>
 
 </div>
